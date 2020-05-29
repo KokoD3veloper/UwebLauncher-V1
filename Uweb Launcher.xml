@@ -1,0 +1,125 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Uweb Launcher
+</name>
+</assembly>
+<members>
+<member name="T:Uweb_Launcher.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Uweb_Launcher.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Uweb_Launcher.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:Uweb_Launcher.Form31">
+<summary>
+  Yerelleştirilmiş dizeleri aramak gibi işlemler için, türü kesin olarak belirtilmiş kaynak sınıfı.
+</summary>
+</member>
+<member name="P:Uweb_Launcher.Form31.ResourceManager">
+<summary>
+  Bu sınıf tarafından kullanılan, önbelleğe alınmış ResourceManager örneğini döndürür.
+</summary>
+</member>
+<member name="P:Uweb_Launcher.Form31.Culture">
+<summary>
+  Tümü için geçerli iş parçacığının CurrentUICulture özelliğini geçersiz kular
+  CurrentUICulture özelliğini tüm kaynak aramaları için geçersiz kılar.
+</summary>
+</member>
+<member name="T:Uweb_Launcher.Form41">
+<summary>
+  Yerelleştirilmiş dizeleri aramak gibi işlemler için, türü kesin olarak belirtilmiş kaynak sınıfı.
+</summary>
+</member>
+<member name="P:Uweb_Launcher.Form41.ResourceManager">
+<summary>
+  Bu sınıf tarafından kullanılan, önbelleğe alınmış ResourceManager örneğini döndürür.
+</summary>
+</member>
+<member name="P:Uweb_Launcher.Form41.Culture">
+<summary>
+  Tümü için geçerli iş parçacığının CurrentUICulture özelliğini geçersiz kular
+  CurrentUICulture özelliğini tüm kaynak aramaları için geçersiz kılar.
+</summary>
+</member>
+<member name="P:Uweb_Launcher.Form41.BackgroundWorker1_TrayLocation">
+<summary>
+  {X=17,Y=17} öğesine benzeyen System.Drawing.Point türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member>
+<member name="T:Uweb_Launcher.Form91">
+<summary>
+  Yerelleştirilmiş dizeleri aramak gibi işlemler için, türü kesin olarak belirtilmiş kaynak sınıfı.
+</summary>
+</member>
+<member name="P:Uweb_Launcher.Form91.ResourceManager">
+<summary>
+  Bu sınıf tarafından kullanılan, önbelleğe alınmış ResourceManager örneğini döndürür.
+</summary>
+</member>
+<member name="P:Uweb_Launcher.Form91.Culture">
+<summary>
+  Tümü için geçerli iş parçacığının CurrentUICulture özelliğini geçersiz kular
+  CurrentUICulture özelliğini tüm kaynak aramaları için geçersiz kılar.
+</summary>
+</member>
+<member name="P:Uweb_Launcher.Form91.PictureBox1_Image">
+<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member>
+<member name="P:Uweb_Launcher.Form91.PictureBox2_Image">
+<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member>
+<member name="P:Uweb_Launcher.Form91.PictureBox3_Image">
+<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member>
+<member name="P:Uweb_Launcher.Form91.PictureBox4_Image">
+<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member>
+<member name="P:Uweb_Launcher.Form91.SaveFileDialog1_TrayLocation">
+<summary>
+  {X=106,Y=17} öğesine benzeyen System.Drawing.Point türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member>
+<member name="P:Uweb_Launcher.Form91.Timer1_TrayLocation">
+<summary>
+  {X=17,Y=17} öğesine benzeyen System.Drawing.Point türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member>
+<member name="T:Uweb_Launcher.Thirteen_Theme">
+<summary>
+  Yerelleştirilmiş dizeleri aramak gibi işlemler için, türü kesin olarak belirtilmiş kaynak sınıfı.
+</summary>
+</member>
+<member name="P:Uweb_Launcher.Thirteen_Theme.ResourceManager">
+<summary>
+  Bu sınıf tarafından kullanılan, önbelleğe alınmış ResourceManager örneğini döndürür.
+</summary>
+</member>
+<member name="P:Uweb_Launcher.Thirteen_Theme.Culture">
+<summary>
+  Tümü için geçerli iş parçacığının CurrentUICulture özelliğini geçersiz kular
+  CurrentUICulture özelliğini tüm kaynak aramaları için geçersiz kılar.
+</summary>
+</member>
+</members>
+</doc>
